@@ -1,0 +1,24 @@
+.servicios{
+    width: 100%;
+    height: auto;
+    align-content: center;
+    color: black;
+    font-family: 'Bebas Neue', cursive;
+    .contenedor{
+        width: 100%;
+        margin: 0;
+        font-size: 26px;
+        font-family:'Bebas Neue', cursive;
+        text-align: center;
+        .comunidad{
+            font-size: 26px;
+            text-align: center;
+            font-family: 'Bebas Neue', cursive;
+
+            .imgt{
+                width: 30%;
+                align-content: space-around;
+            }
+        }   
+    }
+}

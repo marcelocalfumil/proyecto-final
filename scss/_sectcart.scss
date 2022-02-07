@@ -1,0 +1,61 @@
+section{
+    width: 100%;
+    margin: 0;
+    background-color: rgba(38, 79, 107, 0.288);
+    text-align: center;
+    .contenedor{
+        width: 100%;
+        margin: 0;
+        font-size: 20px;
+        font-family:'Bebas Neue', cursive;
+        text-align: center;
+        form{
+            width: 100%;
+            padding: 50px;
+            align-items: center;
+            align-content: center;
+            position: relative;
+            color: rgba(6, 6, 7, 0.986);
+            .campos{
+                width: 80%;
+                background-color: rgba(43, 43, 71, 0.26);
+                padding: 30px;
+                height: auto;
+                margin: auto;
+                align-items: center;
+                justify-content: center;
+                legend{
+                    text-align: center;
+                    margin: 5px;
+                    color: rgba(115, 61, 240, 0.712);
+                    font-size: 25px;
+                    padding: 10px;
+                    .lab{
+                       margin: auto; 
+                       width: auto;
+                       .style{
+                           .inp{
+                               .boton{
+                                   padding: 70px;
+                                  background-color: indigo;
+                                   
+                               }
+                           }
+                       }
+                    }
+                }
+            }
+        }
+    }
+}
+ 
+.image{
+    width:100%;
+    height: auto;
+    img{
+        width: 80%;
+        align-content: space-around;
+    }
+    
+    
+}

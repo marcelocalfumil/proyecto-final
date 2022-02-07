@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    .contenedor{
+        width: 100%;
+        margin: 0;
+        font-size: 20px;
+        font-family:'Bebas Neue', cursive;
+        text-align: center;
+        img{
+            align-content: center;
+            width: 100%;
+            .boton{
+                background-color: rgb(28, 20, 66);
+                color: white;
+                font-size: 20px;
+                text-align: center;
+                margin: 20px;
+                .text{
+                 margin: 50px;
+                 text-align: center;
+                 border: 4px grey;
+
+                }
+            }
+        }
+    }
+}

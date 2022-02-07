@@ -1,0 +1,22 @@
+main{
+    .main{
+        width: 100%;
+    height: auto;
+    align-content: center;
+    color:black;
+    font-family: 'Bebas Neue', cursive;
+    margin: 0;
+    font-size: 24px;
+   
+    h2{
+        font-size: 30px;
+        text-align: center;
+        color: blanchedalmond;
+        .text{
+            font-size: 22px;
+            text-align: justify;
+            color: blanchedalmond;
+        }
+    }
+    }
+}

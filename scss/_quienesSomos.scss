@@ -1,0 +1,32 @@
+main{
+    .quienesSomos{
+        width: 100%;
+        height: auto;
+        align-content: center;
+        color: black;
+        font-family: 'Bebas Neue', cursive;
+        .main{
+            width: 100%;
+            margin: 0;
+            font-size: 20px;
+           font-family:'Bebas Neue', cursive;
+           text-align: center;
+           align-content: center;
+           color: rgb(8, 7, 4);
+           img{
+            width: 80%;
+            align-content: space-around;
+            h2{
+                font-size: 28px;
+                text-align: center;
+                p{
+                    font-size: 20px;
+                    text-align: center;
+                    align-content: center;
+                }
+            }
+           }
+
+        }
+    }
+}
